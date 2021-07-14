@@ -2,13 +2,13 @@
     "name": "@pancakeswap-libs/sdk",
     "license": "MIT",
     "version": "2.2.0",
-    "description": "🛠 An SDK for building applications on top of cherokee.",
+    "description": "🛠 An SDK for building applications on top of buffalo.",
     "main": "dist/index.js",
     "typings": "dist/index.d.ts",
     "files": [
         "dist"
     ],
-    "repository": "https://github.com/cherokeefinance/cherokee-sdk.git",
+    "repository": "https://github.com/buffaloswap/buffaloswap-sdk.git",
     "keywords": [
         "cherokee",
         "ethereum"
